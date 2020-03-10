@@ -1,0 +1,7 @@
+.box{
+  text-align: center;
+  height: 70px;
+  width: 100%;
+  transition: .3s;
+/*   background-color: red; */
+}
